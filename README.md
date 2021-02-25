@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Gilmanov-Timur.github.io/rsschool-cv/cv
