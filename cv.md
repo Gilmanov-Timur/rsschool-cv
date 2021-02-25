@@ -1,11 +1,15 @@
 # Gilmanov Timur
 ## Contacts
-**E-mail**: *gtrediska@gmail.com*
-**Phone**: *+998946231589*
+**E-mail**: [gtrediska@gmail.com](mailto:gtrediska@gmail.com)
+**Telegram**: [timur_gilmanov](https://t.me/timur_gilmanov)
 ## About
-О себе
+I'm a front-end developer and a fisherman
 ## Skills
-Список скиллов
+* CSS
+* HTML
+* JavaScript
+* Vue.js
+* Git
 ## Code example
 ```
 const func = (num) => {
@@ -16,8 +20,9 @@ const func = (num) => {
 };
 ```
 ## Experience
-Опыт работы
+* 2014-2019 DealerSocket
+* 2008-2014 Stylemix
 ## Education
-Образование
+Namangan Engineering-Pedagogical Institute 2003-2007
 ## English language
-Уровень английского
+A2 (Pre-Intermediate)
